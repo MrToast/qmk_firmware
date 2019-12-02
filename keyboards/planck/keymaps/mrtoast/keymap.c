@@ -1,4 +1,4 @@
-Ass/* 
+/* 
  * Mr. Toastman
  */
 
